@@ -1,0 +1,3 @@
+Total number of unique categories: 924
+Total number of category assignments: 57917927
+Number of problematic entries: 0

@@ -1,0 +1,4 @@
+amazon_reviews_with_metadata.csv
+filtered_amazon_reviews_spatial.csv
+filtered_amazon_reviews_stem.csv
+*.log
